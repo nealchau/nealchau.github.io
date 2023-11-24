@@ -1,5 +1,7 @@
----
-title: testing Hello World
-date: 2023-06-18
----
-the main blog
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
