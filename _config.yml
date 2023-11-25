@@ -2,4 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Neal's Computing Notes
-description: Programming confusion drawn and sort of cleaned up
+description: Programming confusion drawn and cleaned up.
+page_excerpts: true
