@@ -1,0 +1,13 @@
+[start] 16:29:25 INFO: syncthing v1.18.0-ds1 "Fermium Flea" (go1.18.1 linux-amd64) debian@debian 2023-05-03 08:38:45 UTC
+[start] 16:29:25 WARNING: Error opening database: resource temporarily unavailable (is another instance of Syncthing running?)
+[monitor] 16:29:25 INFO: Syncthing exited: exit status 1
+[start] 16:29:26 INFO: syncthing v1.18.0-ds1 "Fermium Flea" (go1.18.1 linux-amd64) debian@debian 2023-05-03 08:38:45 UTC
+[start] 16:29:26 WARNING: Error opening database: resource temporarily unavailable (is another instance of Syncthing running?)
+[monitor] 16:29:26 INFO: Syncthing exited: exit status 1
+[start] 16:29:27 INFO: syncthing v1.18.0-ds1 "Fermium Flea" (go1.18.1 linux-amd64) debian@debian 2023-05-03 08:38:45 UTC
+[start] 16:29:27 WARNING: Error opening database: resource temporarily unavailable (is another instance of Syncthing running?)
+[monitor] 16:29:27 INFO: Syncthing exited: exit status 1
+[start] 16:29:28 INFO: syncthing v1.18.0-ds1 "Fermium Flea" (go1.18.1 linux-amd64) debian@debian 2023-05-03 08:38:45 UTC
+[start] 16:29:28 WARNING: Error opening database: resource temporarily unavailable (is another instance of Syncthing running?)
+[monitor] 16:29:28 INFO: Syncthing exited: exit status 1
+[monitor] 16:29:29 WARNING: 4 restarts in 4.080064247s; not retrying further
