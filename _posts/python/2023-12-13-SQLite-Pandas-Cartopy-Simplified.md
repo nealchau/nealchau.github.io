@@ -11,6 +11,8 @@ tags:
 
 ![alt text](/assets/images/routemap.png "SQLite and Pandas quick intro")
 
+Download the flights database here: [flights.db](/assets/notebooks/flights.db)
+
 
 ![alt text](/assets/images/pandas_sqlite1_01.jpg "Quick Intro")
 
