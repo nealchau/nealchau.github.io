@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Neal's Computing Notes
 author: Neal C
-description: Programming confusion drawn and cleaned up.
+description: Embrace the scribble - messy drawings to masterpieces
 page_excerpts: true
 url: https://nealchau.github.io

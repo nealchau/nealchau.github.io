@@ -22,7 +22,7 @@ to show the categories and tags.
 
 [Another way tags and categories, might be obsolete](https://stackoverflow.com/a/37101827)
 
-[Link example to self]({% post_url 2023-11-25-blogging-notes %})
+[Link example to self]({% post_url /writing/2023-11-25-blogging-notes %})
 
 [How to add images](https://jekyllrb.com/docs/posts/)
 
