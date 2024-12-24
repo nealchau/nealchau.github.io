@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "webrick"
+gem "jekyll-theme-so-simple"
 gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
@@ -9,4 +10,3 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
 end
 
-gem "webrick", "~> 1.8"
