@@ -4,6 +4,9 @@ title: Neal's Notes
 author: Neal C
 description: Drawing and seeing
 page_excerpts: true
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 url: https://nealchau.github.io
 sass:
   style: compressed
